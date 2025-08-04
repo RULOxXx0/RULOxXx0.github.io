@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mi Portafolio</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Mi Portafolio</description>
+    <generator>Hugo</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Mon, 04 Aug 2025 14:58:12 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>baterías automotrices</title>
+      <link>http://localhost:1313/posts/mi-primer-proyecto/</link>
+      <pubDate>Mon, 04 Aug 2025 14:58:12 -0600</pubDate>
+      <guid>http://localhost:1313/posts/mi-primer-proyecto/</guid>
+      <description>&lt;p&gt;baterías automotrices&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
